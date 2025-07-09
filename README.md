@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Alex 
 
-
 I’m a **detail-oriented data analyst** with 4+ years of experience in marketing analytics, KPI dashboards, and structured data projects.  
 
 At ThirdLove, I managed high-budget campaigns and designed A/B tests that improved ROI. At Nova Campinas, a B2B Mondelez distributor, I helped implement their first website and created dashboards that reduced reporting time by 40%.  
